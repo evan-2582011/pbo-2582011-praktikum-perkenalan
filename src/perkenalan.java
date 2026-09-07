@@ -6,3 +6,14 @@ public class perkenalan {
 
         System.out.print("Masukkan nama: ");
         String nama = input.nextLine();
+
+        System.out.print("Masukkan NIM: ");
+        int nim = input.nextInt();
+
+        System.out.print("Masukkan umur: ");
+        int umur = input.nextInt();
+        input.nextLine();
+
+
+    }
+}
